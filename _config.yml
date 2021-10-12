@@ -2,7 +2,7 @@ title: Stak Dominicana
 description: > # this means to ignore newlines until "show_excerpts:"
   Sitio web de empresa de consultoría y servicios profesionales.
 baseurl: "/"
-url: https://elandestoy.github.io/ # change this URL, this is needed for generating right sitemap
+url: https://elandestoy.github.io # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
